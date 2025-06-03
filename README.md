@@ -16,3 +16,7 @@ php artisan serve
 ```
 
 O projeto rodará por padrão no link: http://127.0.0.1:8000/
+
+### Referências
+
+[Curso de Laravel - Matheus Battisti - Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG)
